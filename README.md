@@ -9,6 +9,8 @@ WebAssembly技术解密课程配套源码
 * [https://github.com/plter/LearnWebassembly20190319](https://github.com/plter/LearnWebassembly20190319)
 * [https://gitee.com/topyunp/LearnWebassembly20190319](https://gitee.com/topyunp/LearnWebassembly20190319)
 
+# 课程目录 
+
 | 章 | 节 |
 | --- | --- |
 | 第一章 配置跨平台的C++语言环境 | <ol><li>Windows下配置CLion集成开发环境</li><li>Mac下配置CLion IDE</li><li>Linux下配置CLion IDE</li></ol> |
