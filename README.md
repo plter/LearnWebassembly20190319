@@ -1,8 +1,13 @@
 # LearnWebassembly20190319
 WebAssembly技术解密课程配套源码
 
-配套视频教程：   
+# 配套视频教程  
 [http://yunp.top/init/course/v/1345](http://yunp.top/init/course/v/1345)
+
+# 配套源码 
+
+* [https://github.com/plter/LearnWebassembly20190319](https://github.com/plter/LearnWebassembly20190319)
+* [https://gitee.com/topyunp/LearnWebassembly20190319](https://gitee.com/topyunp/LearnWebassembly20190319)
 
 | 章 | 节 |
 | --- | --- |
