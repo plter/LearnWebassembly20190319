@@ -2,7 +2,7 @@
 WebAssembly技术解密课程配套源码
 
 # 配套视频教程  
-[http://yunp.top/init/course/v/1345](http://yunp.top/init/course/v/1345)
+[https://yunp.top/p/v/1345](https://yunp.top/p/v/1345)
 
 # 配套源码 
 
